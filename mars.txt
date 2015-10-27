@@ -1,3 +1,4 @@
 Mars is covered by red dust.
 Mars has water. 
 Mars has two moons.
+Surface temperature is cold.
